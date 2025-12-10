@@ -1,4 +1,4 @@
-# gui_generate.py
+# ai-V1-without-context.py
 
 print("KI wird geladen...")
 
@@ -250,3 +250,4 @@ def on_close():
 
 root.protocol("WM_DELETE_WINDOW", on_close)
 root.mainloop()
+
