@@ -69,6 +69,8 @@ pip install tkinter
 
 (Unter Windows ist `tkinter` normalerweise bereits vorhanden.)
 
+Anschließend entpacke **Small-language-model-SLM-in-Python-sl-mai.zip**.
+
 ---
 
 # 📘 2. Trainingsdaten: `grundwissen.txt`
@@ -84,7 +86,7 @@ Du musst im Projektordner eine Datei `grundwissen.txt` erstellen.
 - Die KI lernt *nur* das, was hier drin steht  
   → je besser der Text, desto besser das Modell.
 
-Du kannst auch die neusten fertigen Trainingsdateien aus dem Ordner **latest_training_files** nach **Small-language-model-SLM-in-Python-sl-mai** verschieben und du kannst die KI direkt benutzen.
+Du kannst auch die neusten fertigen Trainingsdateien aus dem Ordner **latest_training_files** nach **Small-language-model-SLM-in-Python-sl-mai** verschieben und du kannst die KI direkt benutzen. Dann kannst du Teil drei überspringen.
 
 ⚠️ **Wichtig:**  
 Deine Trainingsdaten dürfen KEINE persönlichen Daten enthalten.  
@@ -97,7 +99,7 @@ Nur neutrale, allgemein gültige Texte verwenden.
 In den Projektordner wechseln:
 
 ```
-cd sl-mai
+cd Small-language-model-SLM-in-Python-sl-mai
 ```
 
 Training ausführen:
@@ -152,7 +154,7 @@ Eigenschaften:
 
 ---
 
-## 🎛️ **V2: Erweiterte GUI – Stil, Satzstruktur, Kontext**
+## 🎛️ **V2: Erweiterte GUI – Stil, Satzstruktur, Kontext (empfohlen)**
 
 ```
 python gui_generate_V2.py
