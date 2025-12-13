@@ -1,0 +1,33 @@
+Non-Commercial License (MIT-NC Variant)
+
+Copyright (c) 2025 Yenoyosh
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software (the "Software") and associated files, including model weights
+and training data, to use, copy, modify and distribute the Software for
+non-commercial purposes only, subject to the following conditions:
+
+1. Attribution:
+   Der Urheber "Yenoyosh" muss in allen Kopien oder abgeleiteten Arbeiten genannt werden.
+
+2. Einschränkungen:
+   - Eine kommerzielle Nutzung der Software, der Modellgewichte oder der
+     Trainingsdaten ist nicht gestattet.
+   - Die Datei "grundwissen.txt" sowie daraus abgeleitete Datensätze
+     dürfen nicht weiterverkauft, kommerziell genutzt oder als separate
+     Datenbank veröffentlicht werden.
+   - Aus den Trainingsdaten entstandene Modellgewichte dürfen ebenfalls
+     nicht kommerziell verwendet werden.
+
+3. Weitergabe:
+   Modifizierte oder unveränderte Versionen der Software dürfen weitergegeben werden,
+   solange diese Lizenz beigefügt ist und die Nutzung nicht-kommerziell bleibt.
+
+4. Keine Garantie:
+   DIE SOFTWARE WIRD OHNE GEWÄHRLEISTUNG BEREITGESTELLT, EINSCHLIESSLICH JEGLICHER
+   GARANTIE AUF MARKTGÄNGIGKEIT, EIGNUNG FÜR EINEN BESTIMMTEN ZWECK ODER
+   NICHTVERLETZUNG VON RECHTEN DRITTER. IN KEINEM FALL HAFTET DER URHEBER
+   FÜR ANSPRÜCHE ODER SCHÄDEN, DIE DURCH DIE NUTZUNG DER SOFTWARE ENTSTEHEN.
+
+Durch die Nutzung dieser Software erklären Sie sich mit den oben genannten
+Bedingungen einverstanden.
