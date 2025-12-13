@@ -8,7 +8,8 @@ Das Projekt richtet sich an alle, die:
 - ihr **eigenes KI-Modell** trainieren wollen  
 - ein **vollständig offline laufendes SLM** suchen  
 - verstehen möchten, wie Tokenizer, Training und Sampling zusammenarbeiten  
-- eine erweiterbare Basis für Experimente oder Forschung brauchen  
+- eine erweiterbare Basis für Experimente oder Forschung brauchen
+- schon immer mal eine KI (um)programmieren wollten
 
 
 ---
