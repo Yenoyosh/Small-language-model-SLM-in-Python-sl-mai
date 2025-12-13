@@ -40,11 +40,12 @@ sl-mai/
 ├── gui_generate_V1.py           # Einfache GUI ohne Kontext
 ├── gui_generate_V2.py           # Erweiterte GUI (Stil, Satzbau, Kontext)
 ├── memory.py                    # Prompt-Speicher + Stilprofil
-│
-├── grundwissen.txt              # Deine Trainingsdaten (muss man selbst hinzufügen)
-├── tokenizer.json               # Nach Training erzeugt
-├── checkpoint.pt                # Fortsetzbarer Trainingszustand
-├── minigpt_grundwissen.pt       # Fertiges Modell
+│── latest_training_files/
+    |
+    |── grundwissen.txt              # Deine Trainingsdaten (muss man selbst hinzufügen)
+    |── tokenizer.json               # Nach Training erzeugt
+    ├── checkpoint.pt                # Fortsetzbarer Trainingszustand
+    ├── minigpt_grundwissen.pt       # Fertiges Modell
 │
 └── LICENSE                      # Lizenzbestimmungen
 ```
