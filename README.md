@@ -31,14 +31,14 @@ Das Projekt richtet sich an alle, die:
 # 📁 Projektstruktur
 
 ```
-sl-mai/
+Small-language-model-SLM-in-Python-sl-mai.zip/
 │
 ├── train.py                     # Training des Modells
 ├── model.py                     # MiniGPT Architektur
 ├── tokenizer.py                 # BPE-Tokenizer
 ├── data.py                      # Dataset / Block-Handling
-├── gui_generate_V1.py           # Einfache GUI ohne Kontext
-├── gui_generate_V2.py           # Erweiterte GUI (Stil, Satzbau, Kontext)
+├── ai-V1-without-context.py     # Einfache GUI ohne Kontext und weitere Funktionen
+├── sl-mai-ai-V2-with-context.py # Erweiterte GUI (Stil, Satzbau, Kontext)
 ├── memory.py                    # Prompt-Speicher + Stilprofil
 │── latest_training_files/
     |
