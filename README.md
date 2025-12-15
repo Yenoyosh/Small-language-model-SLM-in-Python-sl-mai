@@ -143,7 +143,7 @@ beim nächsten Start wird automatisch fortgesetzt.
 ## 🎛️ **V1: Einfache GUI – keine Stillogik, kein Kontext**
 
 ```
-python gui_generate_V1.py
+python ai-V1-without-context.py
 ```
 
 Eigenschaften:
@@ -158,7 +158,7 @@ Eigenschaften:
 ## 🎛️ **V2: Erweiterte GUI – Stil, Satzstruktur, Kontext (empfohlen)**
 
 ```
-python gui_generate_V2.py
+python sl-mai-ai-V2-with-context.py
 ```
 
 ### Funktionen:
